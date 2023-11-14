@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <None Include="wwwroot\index.html" />
+    <None Include="wwwroot\jokes.html" />
   </ItemGroup>
 
 </Project>
